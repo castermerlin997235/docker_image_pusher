@@ -1,3 +1,4 @@
 privoce/vocechat-server:latest
 nginx
 deluan/navidrome:latest
+synctvorg/synctv:latest
