@@ -3,3 +3,4 @@ nginx
 deluan/navidrome:latest
 synctvorg/synctv:latest
 xhofe/alist:latest-ffmpeg
+githubyumao/mcsmanager-web:latest
