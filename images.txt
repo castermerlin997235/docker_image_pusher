@@ -1,1 +1,1 @@
-fatwang2/dify2openai:latest
+postgres:16
